@@ -1,0 +1,2 @@
+Hi everyone
+🚀🌐 Excited to share that I've successfully completed my third task as part of the Codsoft #codsoft internship in web development! 🎉💼 I'm thrilled to unveil my latest achievement: a responsive calculator web page crafted with the dynamic blend of HTML5, CSS, and JavaScript. 💻✨ This project not only showcases my technical skills but also reflects my passion for creating user-friendly interfaces. Looking forward to more challenges and opportunities to grow in the field!
